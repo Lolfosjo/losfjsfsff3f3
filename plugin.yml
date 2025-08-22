@@ -1,0 +1,15 @@
+name: ffa
+author: FoxyMC
+version: 1.0.0
+api: 5.0.0
+main: foxymc\ffa\Main
+
+permissions:
+  ffa.block.break:
+    default: op
+  ffa.block.place:
+    default: op
+  ffa.item.drop:
+    default: op
+  ffa.start:
+    default: op
